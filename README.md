@@ -10,5 +10,5 @@ Sou uma estudante de Engenharia da Computação na Universidade do Estado do Ama
 
 
 ## 📲 Entre em contato!
-[![Static Badge](https://img.shields.io/badge/Email-%23A91EB6?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](ralphgraziela25@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Email-%23A91EB6?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:ralphgraziela25@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Linkedin-%23CD00E0?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linkedin.com/in/ralphgraziela/)
