@@ -1,5 +1,5 @@
 # Olá devs! 👋
-Sou uma estudante de Engenharia da Computação na Universidade do Estado do Amazonas (UEA/EST) e técnica em informática formada pelo Instituto Federal do Amazonas (IFAM/CMC). Sou apaixonada pelas ciências exatas e pelo universo da programação. Fique à vontade para dar uma olhada nos meus projetos e colaborações, caso queira entrar em contato, [clique aqui](#-entre-em-contato)!
+Sou estudante de Engenharia da Computação na Universidade do Estado do Amazonas (UEA/EST) e técnica em informática formada pelo Instituto Federal do Amazonas (IFAM/CMC). Sou apaixonada pelas ciências exatas e pelo universo da programação. Fique à vontade para dar uma olhada nos meus projetos e colaborações, caso queira entrar em contato, [clique aqui](#-entre-em-contato)!
 
 ## 🔧 Ferramentas
 ![Static Badge](https://img.shields.io/badge/C-322B33?style=for-the-badge&logo=c&logoColor=white)
