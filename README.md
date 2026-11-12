@@ -8,8 +8,9 @@ Sou estudante de Engenharia da Computação na Universidade do Estado do Amazona
 ![Static Badge](https://img.shields.io/badge/Firebase-%23842E8B?style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/MySQL-%23A91EB6?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF)
 
-## Minhas Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=grazielaralph)](https://github.com/stats-organization/github-stats-extended)
+## Minhas Estatísticas 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=grazielaralph&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=grazielaralph&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=grazielaralph&langs_count=4&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=grazielaralph&langs_count=4&theme=jolly)
 
 ## Entre em contato!
 [![Static Badge](https://img.shields.io/badge/Email-%23A91EB6?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:ralphgraziela25@gmail.com)
